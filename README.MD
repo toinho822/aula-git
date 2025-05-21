@@ -5,7 +5,7 @@ da degração casual causada por erros humanos e consequências nao intencionais
 
 ### Vantagens de usar um Sistema de Controle De Versão
 
-
+Esqueci
 
 
 ### Exemplos de Sistema de Controle de Versão
