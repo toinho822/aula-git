@@ -4,7 +4,11 @@ O Sistema de Controle de Versão (VCS) é um sistema que gerencia e monitora as 
 da degração casual causada por erros humanos e consequências nao intencionais. Equipes de software que não utilizam nenhuma forma de VCS frenquentemente enfrenta problemas como a falta de noção de sobre quais mudanças feitas no código estão disponíveis para os usúarios ou a criação de alterações incompatíveis entre dois trabalhos não relacionados.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Vantagens de usar um Sistema de Controle De Versão
+=======
+# Vantagens de usar um Sistema de Controle De Versão
+>>>>>>> 929c36c1a61fb3db415a804878d366a30555d24a
 =======
 # Vantagens de usar um Sistema de Controle De Versão
 >>>>>>> 929c36c1a61fb3db415a804878d366a30555d24a
@@ -13,7 +17,11 @@ da degração casual causada por erros humanos e consequências nao intencionais
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Exemplos de Sistema de Controle de Versão
+=======
+# Exemplos de Sistema de Controle de Versão
+>>>>>>> 929c36c1a61fb3db415a804878d366a30555d24a
 =======
 # Exemplos de Sistema de Controle de Versão
 >>>>>>> 929c36c1a61fb3db415a804878d366a30555d24a
