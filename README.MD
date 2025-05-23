@@ -47,3 +47,5 @@ O polimorfismo, em Programação Orientada a Objetos (POO), permite que objetos 
 ### 3. Escalabilidade
 ### 4. Modelagen Intuitiva
 ### 5. Colaboração Eficiente
+
+Estoy Cansado Chiefe
