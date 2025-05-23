@@ -11,13 +11,9 @@ Git
 Mercurial  
 SubVersion
 
-
-
-
 # O que é POO (Programação Orientada a Objetos)
 
 A Programação Orientada a Objetos (POO) é um modelo de programação que organiza seu código em volta de objetos, esse modelo permite a simplificação de programas complexos dividindo-os em unidades chamadas de "objetos", cada objeto é uma entidade autônoma, pois possui atributos e comportamentos independentes. Ou seja, cada objeto é uma entidade única, com atributos e ações específicas para ele. Além disso o POO possui 4 pilares: abstração, encapsulamento, herança e polimorfismo, tornando a programação mais organizada e eficiente.Comparada a modelos de programação mais tradicionais, como a programação procedural, a POO oferece uma perspectiva e prática de programação mais organizada e escalável para o desenvolvimento de software. Enquanto a programação procedural se concentra em funções e na sequência de execução de tarefas, a POO agrupa tarefas (métodos) com os dados que manipulam (objetos), resultando em um código mais intuitivo e adaptável. A modularidade da POO também se traduz em uma colaboração mais eficiente entre os desenvolvedores. Em grandes equipes, diferentes grupos podem trabalhar em módulos separados sem interferir no trabalho uns dos outros em nenhum momento. Em ambientes de desenvolvimento ágil, onde várias iterações e revisões são comuns, essa eficiência na colaboração faz toda a diferença.
-
 
 ## Abstração
 A abstração é um dos pilares da Programação Orientada a Objetos que envolve a identificação e a modelagem das características e comportamentos essenciais de um objeto, ignorando os detalhes irrelevantes ou secundários para o contexto em questão.
@@ -47,5 +43,3 @@ O polimorfismo, em Programação Orientada a Objetos (POO), permite que objetos 
 ### 3. Escalabilidade
 ### 4. Modelagen Intuitiva
 ### 5. Colaboração Eficiente
-
-Estoy Cansado Chiefe
